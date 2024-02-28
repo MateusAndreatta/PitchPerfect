@@ -44,6 +44,7 @@
 		399F2A372B8A648A001097D7 = {
 			isa = PBXGroup;
 			children = (
+				399F2A5B2B8FEF66001097D7 /* Preview */,
 				399F2A422B8A648A001097D7 /* PitchPerfect */,
 				399F2A412B8A648A001097D7 /* Products */,
 			);
@@ -71,6 +72,13 @@
 				399F2A592B8ED147001097D7 /* PlaySoundsViewController+Audio.swift */,
 			);
 			path = PitchPerfect;
+			sourceTree = "<group>";
+		};
+		399F2A5B2B8FEF66001097D7 /* Preview */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Preview;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
